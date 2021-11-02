@@ -1,0 +1,6 @@
+[submodule "kk-base-android-kotlin"]
+	path = kk-base-android-kotlin
+	url = https://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@github.com/phorvicheka-android-kotlin/kk-base-android-kotlin.git
+[submodule "kk-fake-api-jwt-json-server-for-base-android-kotlin"]
+	path = kk-fake-api-jwt-json-server-for-base-android-kotlin
+	url = https://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@github.com/phorvicheka-android-kotlin/kk-fake-api-jwt-json-server-for-base-android-kotlin.git
